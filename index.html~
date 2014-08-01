@@ -3,14 +3,10 @@ for more reasons :)
 
 <script language="JavaScript">
     <!--
-    var julie = [
-    'You made the department magazine practically on your own! In second year!!!',
-    'You got the highest mark out of over 100 people!',
-    'You are so good at skiing you teach other people how to do it!',
-    '
-    
-    
-    ];
+    var julie = ['',
+
+    'hello',
+    'wassup'];
     var i = Math.floor(julie.length*Math.random())
 
     document.write(julie[i]);
