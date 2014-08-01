@@ -11,7 +11,7 @@
         <title>Juliee</title>
 
         <!--  <script type="text/javascript" src="main.js"></script> -->
-        <scritp type="javascript"> var julie = ['You have loads of nice clothes and a good sense of dress!',
+        <script type="javascript"> var julie = ['You have loads of nice clothes and a good sense of dress!',
             'You have a nice smile!',
                 'You are GREAT at making french onion soup!',
                     'You are helpful and give people advice on TSR and stuff!',
